@@ -1,2 +1,2 @@
 # Frist-use-python
-python课堂的笔记
+python的课堂笔记
